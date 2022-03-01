@@ -1,0 +1,44 @@
+id: PE300C3BD
+initial_creation_type: input
+source_metadata:
+  title: Vajrasattva Series
+  language: nl
+  description: 'A series of texts related to the deity Vajrasattva (rdo rje sems dpa''):'
+  volume:
+    7cde19a956a346e89708a0834d380ff5:
+      title: Heart of Vajrasattva—The Heart of Confession, the King of Purification
+        Practices, from 'The Immaculate Secret Vajrasattva'
+      parent: Confession
+    60e3420bccc149619ae305c009a57cdf:
+      title: 'Cultivating the Pure Realm of Manifest Joy: A Guru Yoga of Vajrasattva'
+      parent: Guru Yoga
+    5db03964f0c34c6f89b27aee5819a7fc:
+      title: 'A Shower of Great Bliss: A Lineage Prayer for the Guru Yoga based on
+        Vajrasattva'
+      parent: Lineage Prayers
+    4a28dca8331e4968989a017370bc335a:
+      title: A Method of Purifying Samaya Violations by Relying on the Glorious Guru
+        Vajrasattva
+      parent: Practices
+    d16061d9f4c14256a659779869b44b8e:
+      title: A Song of Innermost Praise to Vajrasattva
+      parent: Praise
+    f9cc648c64e447c594d11dfb29f3fcc5:
+      title: 'Wish-Granting Provision of Twofold Accomplishment: A Praise of Vajrasattva'
+      parent: Praise
+    1f727ee1fe0540e8bb5a274b39a09cfe:
+      title: In Praise of Glorious Vajrasattva
+      parent: Praise
+    ddbf4930a3f3460c9a1c06536fdeb4c5:
+      title: Concise Daily Practice of Vajrasattva
+      parent: Sādhanas
+    8c5a35dea9ff43f69e053b3bc78c9442:
+      title: Brief Vajrasattva Visualisation and Mantra Recitation
+      parent: Sādhanas
+    acc6cffa9b00464fabae82a4532a60e9:
+      title: 'The Cintāmaṇi (Wish-Fulfilling Jewel) Instruction: A Sādhana of the
+        Glorious Vajrasattva, a Method of Purification and Accomplishment for Both
+        Self and Others'
+      parent: Sādhanas
+created_at: '2022-03-01T06:32:25.086698'
+last_modified_at: '2022-03-01T06:32:25.086701'
